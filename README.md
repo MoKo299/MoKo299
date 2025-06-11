@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="moko-logo.png" width="120" alt="MoKo Logo" />
-</p>
-
 <h2 align="center">Welcome to My Web3 World 👋</h2>
 
 ---
